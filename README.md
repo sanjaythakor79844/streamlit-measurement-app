@@ -73,3 +73,6 @@ project/
 ## Hardware Structure
 ![WhatsApp Image 2025-05-09 at 15 19 10_7ab07b68](https://github.com/user-attachments/assets/29f9a91a-e713-41d1-b739-798c6cb389f8)
 
+## UI Operating
+![image](https://github.com/user-attachments/assets/616f404c-f8a6-4d3b-aa0d-d6605f9b3ee5)
+
