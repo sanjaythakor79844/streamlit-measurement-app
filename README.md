@@ -26,4 +26,15 @@ Here are sample images used in the project:
 - (Optional) Arduino/ESP32 for hardware control  
 
 ## Folder Structure
-
+project/
+│
+├── images/
+│ ├── input1.jpg
+│ ├── processed1.jpg
+│
+├── src/
+│ ├── main.py
+│ ├── measurement_utils.py
+│
+├── README.md
+└── requirements.txt
