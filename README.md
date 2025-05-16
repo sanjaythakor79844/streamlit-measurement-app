@@ -70,3 +70,6 @@ project/
 │
 ├── README.md
 └── requirements.txt
+## Hardware Structure
+![WhatsApp Image 2025-05-09 at 15 19 10_7ab07b68](https://github.com/user-attachments/assets/29f9a91a-e713-41d1-b739-798c6cb389f8)
+
